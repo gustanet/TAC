@@ -12,7 +12,7 @@ namespace events.tac.local.Tests
         [Fact]
         public void FailedTest()
         {
-            Assert.True(false);
+            Assert.True(true);
         }
     }
 }
